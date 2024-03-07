@@ -1,0 +1,183 @@
+Deleted Code 
+
+  <!-- PHOTO CONTENT, CONNECTED TO FLICKR -->
+  <div class="container mx-auto">
+    <section class="text-neutral-700">
+      <div class="container w-full">
+        <div class="flex flex-wrap w-full">
+          <div class="flex w-full md:w-1/2 flex-wrap">
+            <div class="w-full md:w-1/2 p-1">
+              <div class="overflow-hidden h-full w-full">
+                <a href="https://live.staticflickr.com/65535/53425077026_6b750d6af6_k.jpg/"
+                  data-fancybox="gallery">
+                  <img alt="1-She is Made of Metal Series"
+                    class="block h-full w-full object-cover object-center opacity-0 animate-fade-in transition duration-500 transform scale-100 hover:scale-110"
+                    src="https://live.staticflickr.com/65535/53425077026_6b750d6af6_k.jpg/" />
+                </a>
+              </div>
+            </div>
+            <div class="w-full md:w-1/2 p-1">
+              <div class="overflow-hidden h-full w-full">
+                <a href="https://live.staticflickr.com/65535/53425269378_c994674b19_k.jpg"
+                  data-fancybox="gallery">
+                  <img alt="2-She is Made of Metal"
+                    class="block h-full w-full object-cover object-center opacity-0 animate-fade-in transition duration-500 transform scale-100 hover:scale-110"
+                    src="https://live.staticflickr.com/65535/53425269378_c994674b19_k.jpg" />
+                </a>
+              </div>
+            </div>
+            <div class="w-full p-1">
+              <div class="overflow-hidden h-full w-full">
+                <a href="https://live.staticflickr.com/65535/53425334068_5a193d7494_k.jpg"
+                  data-fancybox="gallery">
+                  <img alt="3-Sisi"
+                    class="block h-full w-full object-cover object-center opacity-0 animate-fade-in transition duration-500 transform scale-100 hover:scale-110"
+                    src="https://live.staticflickr.com/65535/53425334068_5a193d7494_k.jpg" />
+                </a>
+              </div>
+            </div>
+          </div>
+          <div class="flex w-full md:w-1/2 flex-wrap">
+            <div class="w-full p-1">
+              <div class="overflow-hidden h-full w-full">
+                <a href="https://live.staticflickr.com/65535/53424209737_36bd767e58_k.jpg"
+                  data-fancybox="gallery">
+                  <img alt="4-Test Shoot"
+                    class="block h-full w-full object-cover object-center opacity-0 animate-fade-in transition duration-500 transform scale-100 hover:scale-110"
+                    src="https://live.staticflickr.com/65535/53424209737_36bd767e58_k.jpg" />
+                </a>
+              </div>
+            </div>
+            <div class="w-full md:w-1/2 p-1">
+              <div class="overflow-hidden h-full w-full">
+                <a href="https://live.staticflickr.com/65535/53425300743_6bad606601_k.jpg"
+                  data-fancybox="gallery">
+                  <img alt="5-Test Shoot"
+                    class="block h-full w-full object-cover object-center opacity-0 animate-fade-in transition duration-500 transform scale-100 hover:scale-110"
+                    src="https://live.staticflickr.com/65535/53425300743_6bad606601_k.jpg" />
+                </a>
+              </div>
+            </div>
+            <div class="w-full md:w-1/2 p-1">
+              <div class="overflow-hidden h-full w-full">
+                <a href="https://live.staticflickr.com/65535/53425305288_59db24bb14_k.jpg"
+                  data-fancybox="gallery">
+                  <img alt="6-Test Shoot"
+                    class="block h-full w-full object-cover object-center opacity-0 animate-fade-in transition duration-500 transform scale-100 hover:scale-110"
+                    src="https://live.staticflickr.com/65535/53425305288_59db24bb14_k.jpg" />
+                </a>
+            </div>
+            </div>
+            <div class="w-full md:w-1/2 p-1">
+              <div class="overflow-hidden h-full w-full">
+                <a href="https://live.staticflickr.com/65535/53425173521_dc42093986_k.jpg"
+                  data-fancybox="gallery">
+                  <img alt="7-Sedona Anime"
+                    class="block h-full w-full object-cover object-center opacity-0 animate-fade-in transition duration-500 transform scale-100 hover:scale-110"
+                    src="https://live.staticflickr.com/65535/53425173521_dc42093986_k.jpg" />
+                </a>
+              </div>
+                
+              
+            </div>
+            <div class="w-full md:w-1/2 p-1">
+              <div class="overflow-hidden h-full w-full">
+                <a href="https://live.staticflickr.com/65535/53425603125_1ac58cf833_k.jpg"
+                  data-fancybox="gallery">
+                  <img alt="8-ScoutSedona"
+                    class="block h-full w-full object-cover object-center opacity-0 animate-fade-in transition duration-500 transform scale-100 hover:scale-110"
+                    src="https://live.staticflickr.com/65535/53425603125_1ac58cf833_k.jpg" />
+                </a>
+              </div>
+            </div>
+          </div>
+          <div class="flex w-full md:w-1/2 flex-wrap">
+            <div class="w-full p-1">
+              <div class="overflow-hidden h-full w-full">
+                <a href="https://live.staticflickr.com/65535/53425173456_ce30b6bb16_k.jpg"
+                  data-fancybox="gallery">
+                  <img alt="9-Scout and Sedona Close-up"
+                    class="block h-full w-full object-cover object-center opacity-0 animate-fade-in transition duration-500 transform scale-100 hover:scale-110"
+                    src="https://live.staticflickr.com/65535/53425173456_ce30b6bb16_k.jpg" />
+                </a>
+              </div>
+            </div>
+            <div class="w-full md:w-1/2 p-1">
+              <div class="overflow-hidden h-full w-full">
+                <a href="https://live.staticflickr.com/65535/53425197016_a70ebace3b_k.jpg"
+                  data-fancybox="gallery">
+                  <img alt="10-Natasha Driving"
+                    class="block h-full w-full object-cover object-center opacity-0 animate-fade-in transition duration-500 transform scale-100 hover:scale-110"
+                    src="https://live.staticflickr.com/65535/53425197016_a70ebace3b_k.jpg" />
+                </a>
+              </div>
+            </div>
+            <div class="w-full md:w-1/2 p-1">
+              <div class="overflow-hidden h-full w-full">
+                <a href="https://live.staticflickr.com/65535/53425357928_b3d570e6c8_k.jpg"
+                  data-fancybox="gallery">
+                  <img alt="11-Natasha Wow Signal"
+                    class="block h-full w-full object-cover object-center opacity-0 animate-fade-in transition duration-500 transform scale-100 hover:scale-110"
+                    src="https://live.staticflickr.com/65535/53425357928_b3d570e6c8_k.jpg" />
+                </a>
+              </div>
+            </div>
+            <div class="w-full md:w-1/2 p-1">
+              <div class="overflow-hidden h-full w-full">
+                <a href="https://live.staticflickr.com/65535/53425626155_60836077b3_k.jpg"
+                  data-fancybox="gallery">
+                  <img alt="12-Natasha my fave"
+                    class="block h-full w-full object-cover object-center opacity-0 animate-fade-in transition duration-500 transform scale-100 hover:scale-110"
+                    src="https://live.staticflickr.com/65535/53425626155_60836077b3_k.jpg" />
+                </a>
+              </div>
+            </div>
+            <div class="w-full md:w-1/2 p-1">
+              <div class="overflow-hidden h-full w-full">
+                <a href="https://live.staticflickr.com/65535/53425626145_12df5c07e7_k.jpg"
+                  data-fancybox="gallery">
+                  <img alt="13-Natasha Noir"
+                    class="block h-full w-full object-cover object-center opacity-0 animate-fade-in transition duration-500 transform scale-100 hover:scale-110"
+                    src="https://live.staticflickr.com/65535/53425626145_12df5c07e7_k.jpg" />
+                </a>
+              </div>
+            </div>
+          </div>
+          <div class="flex w-full md:w-1/2 flex-wrap">
+            <div class="w-full md:w-1/2 p-1">
+              <div class="overflow-hidden h-full w-full">
+                <a href="https://live.staticflickr.com/65535/53424257457_a235547e15_k.jpg"
+                  data-fancybox="gallery">
+                  <img alt="14-Scout Sedona Film I think"
+                    class="block h-full w-full object-cover object-center opacity-0 animate-fade-in transition duration-500 transform scale-100 hover:scale-110"
+                    src="https://live.staticflickr.com/65535/53424257457_a235547e15_k.jpg" />
+                </a>
+              </div>
+            </div>
+            <div class="w-full md:w-1/2 p-1">
+              <div class="overflow-hidden h-full w-full">
+                <a href="https://live.staticflickr.com/65535/53425173486_cd2ce521fc_k.jpg"
+                  data-fancybox="gallery">
+                  <img alt="15-Scout Sedona Standing"
+                    class="block h-full w-full object-cover object-center opacity-0 animate-fade-in transition duration-500 transform scale-100 hover:scale-110"
+                    src="https://live.staticflickr.com/65535/53425173486_cd2ce521fc_k.jpg" />
+                </a>
+              </div>
+            </div>
+            <div class="w-full p-1">
+              <div class="overflow-hidden h-full w-full">
+                <a href="https://live.staticflickr.com/65535/53425197031_685d7750d2_k.jpg"
+                  data-fancybox="gallery">
+                  <img
+                    alt="16-Scout Lighting"
+                    class="block h-full w-full object-cover object-center opacity-0 animate-fade-in transition duration-500 transform scale-100 hover:scale-110"
+                    src="https://live.staticflickr.com/65535/53425197031_685d7750d2_k.jpg" />
+                </a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+  </div>
+  <!-- Footer -->
