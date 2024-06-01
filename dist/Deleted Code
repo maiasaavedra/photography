@@ -1,3 +1,207 @@
+ALTERED June 1 2024
+
+
+ <!-- PHOTO CONTENT, CONNECTED TO FLICKR -->
+  <div class="container mx-auto">
+    <h1 class="text-4xl pt-10 pb-8 font-bold">PORTFOLIO</h1>
+    <section class="text-neutral-700">
+      <div class="container w-full">
+        <div class="flex flex-wrap w-full">
+          <div class="flex w-full md:w-1/2 flex-wrap">
+            <div class="w-full md:w-1/2 p-1">
+              <div class="overflow-hidden h-full w-full">
+                <a href="https://live.staticflickr.com/65535/53425603125_1ac58cf833_k.jpg"
+                  data-fancybox="gallery">
+                  <img alt="1- Scout Sedona Shared Braid"
+                    class="block h-full w-full object-cover object-center opacity-0 animate-fade-in transition duration-500 transform scale-100 hover:scale-110"
+                    src="https://live.staticflickr.com/65535/53425603125_1ac58cf833_k.jpg" />
+                </a>
+              </div>
+            </div>
+            <div class="w-full md:w-1/2 p-1">
+              <div class="overflow-hidden h-full w-full">
+                <a href="https://live.staticflickr.com/65535/53425173456_ce30b6bb16_k.jpg"
+                  data-fancybox="gallery">
+                  <img alt="2- Scout Sedona closeup"
+                    class="block h-full w-full object-cover object-center opacity-0 animate-fade-in transition duration-500 transform scale-100 hover:scale-110"
+                    src="https://live.staticflickr.com/65535/53425173456_ce30b6bb16_k.jpg" />
+                </a>
+              </div>
+            </div>
+            <div class="w-full p-1">
+              <div class="overflow-hidden h-full w-full">
+                <a href="https://live.staticflickr.com/65535/53573195575_a465771abb_k.jpg"
+                  data-fancybox="gallery">
+                  <img alt="Magda Floating"
+                    class="block h-full w-full object-cover object-center opacity-0 animate-fade-in transition duration-500 transform scale-100 hover:scale-110"
+                    src="https://live.staticflickr.com/65535/53573195575_a465771abb_k.jpg" />
+                </a>
+              </div>
+            </div>
+          </div>
+          <div class="flex w-full md:w-1/2 flex-wrap">
+            <div class="w-full p-1">
+              <div class="overflow-hidden h-full w-full">
+                <a href="https://live.staticflickr.com/65535/53425334068_5a193d7494_k.jpg"
+                  data-fancybox="gallery">
+                  <img alt="3- Sisi Landscape"
+                    class="block h-full w-full object-cover object-center opacity-0 animate-fade-in transition duration-500 transform scale-100 hover:scale-110"
+                    src="https://live.staticflickr.com/65535/53425334068_5a193d7494_k.jpg" />
+                </a>
+              </div>
+            </div>
+            <div class="w-full md:w-1/2 p-1">
+              <div class="overflow-hidden h-full w-full">
+                <a href="https://live.staticflickr.com/65535/53573081499_e21d81736e_k.jpg"
+                  data-fancybox="gallery">
+                  <img alt="Magda vertical"
+                    class="block h-full w-full object-cover object-center opacity-0 animate-fade-in transition duration-500 transform scale-100 hover:scale-110"
+                    src="https://live.staticflickr.com/65535/53573081499_e21d81736e_k.jpg" />
+                </a>
+              </div>
+            </div>
+            <div class="w-full md:w-1/2 p-1">
+              <div class="overflow-hidden h-full w-full">
+                <a href="https://live.staticflickr.com/65535/53573195575_a465771abb_k.jpg"
+                  data-fancybox="gallery">
+                  <img alt="Magda Floating"
+                    class="block h-full w-full object-cover object-center opacity-0 animate-fade-in transition duration-500 transform scale-100 hover:scale-110"
+                    src="https://live.staticflickr.com/65535/53572967853_1503783339_k.jpg" />
+                </a>
+              </div>
+            </div>
+            <div class="w-full md:w-1/2 p-1">
+              <div class="overflow-hidden h-full w-full">
+                <a href="https://live.staticflickr.com/65535/53572759486_a35d4c831d_k.jpg"
+                  data-fancybox="gallery">
+                  <img alt="Magda Smoking Birdlike"
+                    class="block h-full w-full object-cover object-center opacity-0 animate-fade-in transition duration-500 transform scale-100 hover:scale-110"
+                    src="https://live.staticflickr.com/65535/53572759486_a35d4c831d_k.jpg" />
+                </a>
+              </div>
+            </div>
+            <div class="w-full md:w-1/2 p-1">
+              <div class="overflow-hidden h-full w-full">
+                <a href="https://live.staticflickr.com/65535/53571896642_ecd50909c5_k.jpg" 
+                  data-fancybox="gallery">
+                  <img alt="Magda leaning in bush eyes closed"
+                    class="block h-full w-full object-cover object-center opacity-0 animate-fade-in transition duration-500 transform scale-100 hover:scale-110"
+                    src="https://live.staticflickr.com/65535/53571896642_ecd50909c5_k.jpg"  />
+                </a>
+              </div>
+            </div>
+          </div>
+
+          <div class="flex w-full md:w-1/2 flex-wrap">
+            <div class="w-full p-1">
+              <div class="overflow-hidden h-full w-full">
+                <a href="https://live.staticflickr.com/65535/53572781366_1653d075c8_k.jpg" width="1365" 
+                  data-fancybox="gallery">
+                  <img alt="Alex mirror lots of sky"
+                    class="block h-full w-full object-cover object-center opacity-0 animate-fade-in transition duration-500 transform scale-100 hover:scale-110"
+                    src="https://live.staticflickr.com/65535/53572781366_1653d075c8_k.jpg" width="1365"  />
+                </a>
+              </div>
+            </div>
+            <div class="w-full md:w-1/2 p-1">
+              <div class="overflow-hidden h-full w-full">
+                <a href="https://live.staticflickr.com/65535/53573224420_07e5d59079_k.jpg" 
+                  data-fancybox="gallery">
+                  <img alt="Alex High on Swing"
+                    class="block h-full w-full object-cover object-center opacity-0 animate-fade-in transition duration-500 transform scale-100 hover:scale-110"
+                    src="https://live.staticflickr.com/65535/53573224420_07e5d59079_k.jpg"  />
+                </a>
+              </div>
+            </div>
+            <div class="w-full md:w-1/2 p-1">
+              <div class="overflow-hidden h-full w-full">
+                <a href="https://live.staticflickr.com/65535/53573105219_1a0df95315_k.jpg" 
+                  data-fancybox="gallery">
+                  <img alt="Alex Swing Underneath"
+                    class="block h-full w-full object-cover object-center opacity-0 animate-fade-in transition duration-500 transform scale-100 hover:scale-110"
+                    src="https://live.staticflickr.com/65535/53573105219_1a0df95315_k.jpg"  />
+                </a>
+              </div>
+            </div>
+            <div class="w-full md:w-1/2 p-1">
+              <div class="overflow-hidden h-full w-full">
+                <a href="https://live.staticflickr.com/65535/53571938222_9e842d74ca_k.jpg"
+                  data-fancybox="gallery">
+                  <img alt="Scout Lightning Eating Device"
+                    class="block h-full w-full object-cover object-center opacity-0 animate-fade-in transition duration-500 transform scale-100 hover:scale-110"
+                    src="https://live.staticflickr.com/65535/53571938222_9e842d74ca_k.jpg" />
+                </a>
+              </div>
+            </div>
+            <div class="flex w-full md:w-1/2 p-1 flex-wrap">
+              <div class="overflow-hidden h-full w-full">
+                <a href="https://live.staticflickr.com/65535/53573123099_ad87b6c341_k.jpg"
+                  data-fancybox="gallery">
+                  <img alt="Scout lightning fingers"
+                    class="block h-full w-full object-cover object-center opacity-0 animate-fade-in transition duration-500 transform scale-100 hover:scale-110"
+                    src="https://live.staticflickr.com/65535/53573123099_ad87b6c341_k.jpg" />
+                </a>
+              </div>
+            </div>
+          </div>
+          <div class="flex w-full md:w-1/2 flex-wrap">
+            <div class="w-full md:w-1/2 p-1">
+              <div class="overflow-hidden h-full w-full">
+                <a href="https://live.staticflickr.com/65535/53572781516_930110a1fc_k.jpg"
+                  data-fancybox="gallery">
+                  <img alt="Alex glitter in eye mirror"
+                    class="block h-full w-full object-cover object-center opacity-0 animate-fade-in transition duration-500 transform scale-100 hover:scale-110"
+                    src="https://live.staticflickr.com/65535/53572781516_930110a1fc_k.jpg"  />
+                </a>
+              </div>
+            </div>
+            <div class="w-full md:w-1/2 p-1">
+              <div class="overflow-hidden h-full w-full">
+                <a href="https://live.staticflickr.com/65535/53573102739_f2d42a0096_k.jpg"
+                  data-fancybox="gallery">
+                  <img alt="Alex Ribbons on glass"
+                    class="block h-full w-full object-cover object-center opacity-0 animate-fade-in transition duration-500 transform scale-100 hover:scale-110"
+                    src="https://live.staticflickr.com/65535/53573102739_f2d42a0096_k.jpg" />
+                </a>
+              </div>
+            </div>
+            <div class="w-full p-1">
+              <div class="overflow-hidden h-full w-full">
+                <a href="https://live.staticflickr.com/65535/53425197031_685d7750d2_k.jpg"
+                  data-fancybox="gallery">
+                  <img
+                    alt="Scout Lightning"
+                    class="block h-full w-full object-cover object-center opacity-0 animate-fade-in transition duration-500 transform scale-100 hover:scale-110"
+                    src="https://live.staticflickr.com/65535/53425197031_685d7750d2_k.jpg" />
+                </a>
+        
+              
+              </div>
+            </div>
+            <div class="flex w-full p-1 flex-wrap">
+              <div class="overflow-hidden h-full w-full">
+                <a href="https://live.staticflickr.com/65535/53572953062_1e91b2e1c8_k.jpg"
+                  data-fancybox="gallery">
+                  <img
+                    alt="Ryu Pensive"
+                    class="block h-full w-full object-cover object-center opacity-0 animate-fade-in transition duration-500 transform scale-100 hover:scale-110"
+                    src="https://live.staticflickr.com/65535/53572953062_1e91b2e1c8_k.jpg" />
+                 </a>
+            </div>
+          </div>
+            
+
+            
+        </div>
+      </div>
+    </section>
+  </div>
+
+  <!-- Footer -->
+
+END OF ALTERED JUNE 1
+
+
 Deleted Code 
 
   <!-- PHOTO CONTENT, CONNECTED TO FLICKR -->
